@@ -1,0 +1,13 @@
+rendering:
+  save_data: true
+  save_plot: true
+  save_animation: true
+
+  directory: "outputs/trajectories/"
+
+  style:
+    dpi: 150
+    line_width: 2
+
+  naming:
+    auto_generate: true

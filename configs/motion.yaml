@@ -1,0 +1,23 @@
+motion:
+  type: triangle
+
+  description: "Independent triangle wave trajectories for each angular dimension"
+
+  links:
+    - id: 1
+      theta_min: -1.5708
+      theta_max:  1.5708
+      omega: 1.0
+      start_at_max: false
+
+    - id: 2
+      theta_min: -1.5708
+      theta_max:  1.5708
+      omega: 1.0
+      start_at_max: false
+
+    - id: 3
+      theta_min: -1.5708
+      theta_max:  1.5708
+      omega: 1.0
+      start_at_max: false

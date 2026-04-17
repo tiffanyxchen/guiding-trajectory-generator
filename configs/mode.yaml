@@ -1,0 +1,7 @@
+mode:
+  type: "kinematic_painting"
+
+  physics:
+    enabled: false
+
+  note: "Trajectories are prescribed, not derived from equations of motion"

@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Outputs (generated files)
+# outputs/
+# outputs/animations/
+
+# Mac system files
+.DS_Store
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# Build / compiled stuff
+*.so
+*.dylib

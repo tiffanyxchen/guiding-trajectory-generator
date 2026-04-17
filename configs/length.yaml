@@ -1,0 +1,7 @@
+system:
+  name: "triple_pendulum"
+  dimensions: 3
+  
+  lengths: [1.0, 1.0, 1.0]
+  
+  interpretation: "Each dimension corresponds to one angular coordinate (theta1, theta2, theta3)"

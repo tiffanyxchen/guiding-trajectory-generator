@@ -1,0 +1,11 @@
+experiment:
+  name: "painting_trajectories_triangle_uniform"
+
+  description: >
+    Painting trajectories in configuration space using
+    independent triangle wave inputs across three dimensions.
+
+  space: "configuration_space"
+  mode: "kinematic"
+
+  author: "Tiffany Chen"

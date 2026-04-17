@@ -1,0 +1,17 @@
+physics:
+        
+  links:
+    - id: 1
+      mass: 1.0
+      theta_0: -3.0416
+      p_0:  0.0
+
+    - id: 2
+      mass: 1.0
+      theta_0: -3.0416
+      p_0:  0.0
+
+    - id: 3
+      mass: 1.0
+      theta_0: -3.0416
+      p_0:  0.0
